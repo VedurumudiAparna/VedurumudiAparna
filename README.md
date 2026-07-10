@@ -1,4 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Lakshmi Aparna
+
+💻 B.Tech CSE Student
+
+🌱 Learning Java, DSA, AI & UI/UX
+
+🚀 Aspiring Software Engineer
+
+## 🛠 Tech Stack
+
+- Java
+- Python
+- HTML
+- CSS
+- JavaScript
+- MySQL
+
+  
 
 <!--
 **VedurumudiAparna/VedurumudiAparna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
