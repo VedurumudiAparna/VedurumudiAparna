@@ -66,14 +66,60 @@ Java Developer • UI/UX Designer • B.Tech CSE Student
 - 🚀 Aspiring Software Engineer
 
 ---
+<h2 align="center">💻 Languages & Tools</h2>
 
-## 💻 Tech Stack
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=java" width="65" /><br>
+      <b>Java</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=python" width="65" /><br>
+      <b>Python</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=html" width="65" /><br>
+      <b>HTML</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=css" width="65" /><br>
+      <b>CSS</b>
+    </td>
+  </tr>
 
-<p align="center">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=javascript" width="65" /><br>
+      <b>JavaScript</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="65" /><br>
+      <b>MySQL</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=figma" width="65" /><br>
+      <b>Figma</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="65" /><br>
+      <b>VS Code</b>
+    </td>
+  </tr>
 
-<img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,mysql,figma,vscode,git,github&perline=5"/>
-
-</p>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github" width="65" /><br>
+      <b>GitHub</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=idea" width="65" /><br>
+      <b>IntelliJ IDEA</b>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
