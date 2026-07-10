@@ -20,7 +20,7 @@ Java Developer • UI/UX Designer • B.Tech CSE Student
 <img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto: vedurumudi.2005@gmail.com">
 <img src="https://img.shields.io/badge/📧_Gmail-EA4335?style=for-the-badge"/>
 </a>
 
