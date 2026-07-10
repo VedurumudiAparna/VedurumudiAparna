@@ -1,33 +1,120 @@
-# 👋 Hi, I'm Lakshmi Aparna
+<h1 align="center">
+  👋 Hi, I'm <b>LAKSHMI APARNA VEDURUMUDI</b> 🚀
+</h1>
 
-💻 B.Tech CSE Student
+<h3 align="center">
+Java Developer • UI/UX Designer • B.Tech CSE Student
+</h3>
 
-🌱 Learning Java, DSA, AI & UI/UX
+<p align="center">
+<i>"Turning ideas into beautiful digital experiences with code and creativity."</i>
+</p>
 
-🚀 Aspiring Software Engineer
+<p align="center">
 
-## 🛠 Tech Stack
+<a href="https://www.linkedin.com/in/lakshmi-aparna-vedurumudi-095498307">
+<img src="https://img.shields.io/badge/🌐_LinkedIn-0A66C2?style=for-the-badge"/>
+</a>
 
-- Java
-- Python
-- HTML
-- CSS
+<a href="https://github.com/LakshmiAparna">
+<img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/📧_Gmail-EA4335?style=for-the-badge"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=LakshmiAparna&style=for-the-badge&color=8A2BE2"/>
+
+</p>
+
+                     ### 💻 B.Tech CSE Student | Java Developer | UI/UX Designer
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Developer;UI%2FUX+Designer;Python+Learner;Always+Learning+New+Things!" />
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 Currently studying in B.Tech Computer Science Engineering Student
+- ☕ Passionate about Java Programming
+- 🎨 UI/UX Designer which helps me to be creative and productive over my work 
+- 🌐 Web Development Enthusiast
+- 📚 Currently learning Data Structures & Algorithms
+- 🚀 Aspiring Software Engineer
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,mysql,figma,vscode,git,github&perline=5"/>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=LakshmiAparna&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LakshmiAparna&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LakshmiAparna&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- Data Structures & Algorithms
+- SQL
 - JavaScript
-- MySQL
+- UI/UX Design
+- Problem Solving
 
-  
+---
 
-<!--
-**VedurumudiAparna/VedurumudiAparna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Connect With Me
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/lakshmi-aparna-vedurumudi-095498307">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+---
+
+![](https://komarev.com/ghpvc/?username=LakshmiAparna&style=for-the-badge&color=blue)
